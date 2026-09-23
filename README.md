@@ -11,7 +11,7 @@
       </td>
       <td width="20"></td>
       <td width="200" align="center" valign="middle">
-        <img width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHN1YzNzZ2ljemFwZHZndWN3bWJ5N2ZnaDRxZG1sanM4YWdjeDd1biZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/uBTWyINWTrWz6/giphy.gif" style="border-radius:50%; border:3px solid #FF91A4;" alt="avatar" />
+        <img width="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3FtbWR5bDI0dHR3dmtpbGJ1ZjY0bGYwOGF2N3oyZ3Z3dzE4NGk3NiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gR2FAWPWEEW1zhOWvy/giphy.gif" style="border-radius:50%; border:3px solid #FF91A4;" alt="avatar" />
       </td>
     </tr>
   </table>
@@ -20,35 +20,26 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="680" height="2" alt="divider"/>
   <br/>
 
-  <!-- Now Playing -->
   <img src="https://img.shields.io/badge/🎵_Now_Playing-Strong_Girl_—_NIKI-FF69B4?style=flat-square&logo=spotify&logoColor=white" alt="now playing" />
+  <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXNlcnBzOTNycWxjcGVsbzk5YXF1aDJ0OGJleG55OWNmaGlkMXFlMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/E4Pcm3MawDRSs3zTZ7/giphy.gif" width="120" alt="spotify vibes"/>
 
   <br/><br/>
 
   <table border="0" cellpadding="8" cellspacing="6" width="680">
     <tr>
       <td align="left" style="background:#FFF0F3; border-left:3px solid #FF91A4; border-radius:8px; padding:10px 16px;">
-        🎀 &nbsp;<b>Degree</b> &nbsp;·&nbsp; <span style="color:#A65B77;">Information Technology</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="left" style="background:#FFF0F3; border-left:3px solid #FF69B4; border-radius:8px; padding:10px 16px;">
-        🌸 &nbsp;<b>Current Task: </b> &nbsp;·&nbsp; <span style="color:#A65B77;">Learn Defensive security · building self-trust lol</span>
+        🎀 &nbsp;<b>Degree</b> &nbsp;·&nbsp; <span style="color:#A65B77;"> Information Technology </span>
       </td>
     </tr>
     <tr>
       <td align="left" style="background:#FFF0F3; border-left:3px solid #FF1493; border-radius:8px; padding:10px 16px;">
-        🌸 &nbsp;<b>Unrelated Cert</b> &nbsp;·&nbsp; <span style="color:#A65B77;">Bookkeeping NC III by TESDA</span>
+        🌸 &nbsp;<b>Unrelated_Cert</b> &nbsp;·&nbsp; <span style="color:#A65B77;">✧ Bookkeeping NC III (TESDA)</span>
       </td>
     </tr>
     <tr>
       <td align="left" style="background:#FFF0F3; border-left:3px solid #FF80BF; border-radius:8px; padding:10px 16px;">
-        🌸 &nbsp;<b>Hobbies</b> &nbsp;·&nbsp; <span style="color:#A65B77;">Guitar · Painting · Asian dramas · Motorcycle & bike · Basketball</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="left" style="background:#FFF0F3; border-left:3px solid #FFB3CC; border-radius:8px; padding:10px 16px;">
-        🌸 &nbsp;<b>Vibe</b> &nbsp;·&nbsp; <span style="color:#A65B77;">I admire passionate & disciplined people while trying to cure my love for cramming!</span>
+        🌸 &nbsp;<b>Hobbies</b> &nbsp;·&nbsp; <span style="color:#A65B77;">Guitar · Painting · Asian dramas · Motorcycle & Bike · Lil Basketball</span>
       </td>
     </tr>
   </table>
@@ -67,6 +58,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dr34ith&theme=dracula" height="150" alt="stats" />
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr34ith&theme=radical&background=FFF0F3&ring=FF1493&fire=FF69B4&currStreakNum=FF1493&sideNums=8A4B62&dates=8A4B62&hide_border=true" height="150" alt="streak" />
+
 
   <br/><br/>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="680" height="2" alt="divider"/>
