@@ -43,26 +43,4 @@ Hi, I'm **Andrea C.**, an **IT student** interested in technology, problem-solvi
 
 </div>
 
-<br/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&color=EC4899&center=true&vCenter=true&width=360&height=36&repeat=false&lines=Security+Account" alt="security account" />
-
-<br/>
-
-Follow me on my security account
-
-<a href="https://github.com/dr34ith">
-  <img src="https://img.shields.io/badge/Follow-@dr34ith-DB2777?style=for-the-badge&logo=github&logoColor=white&labelColor=500724" alt="Follow @dr34ith" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DB2777,50:BE185D,100:831843&height=100&section=footer" width="100%" />
-
-</div>
