@@ -5,7 +5,7 @@
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&color=F472B6&center=true&vCenter=true&width=500&height=40&repeat=false&lines=Andrea+C." alt="Andrea C." />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=16&color=EC4899&center=true&vCenter=true&width=500&height=30&repeat=false&lines=IT+STUDENT+%E2%80%A2+DEVELOPER" alt="IT STUDENT • DEVELOPER" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=16&color=EC4899&center=true&vCenter=true&width=500&height=30&repeat=false&lines=IT+STUDENT+%E2%80%A2+(semi)DEVELOPER" alt="IT STUDENT • DEVELOPER" />
 
 </div>
 
